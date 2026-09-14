@@ -195,11 +195,13 @@ Visible guide sections included:
 - Using it on a phone
 - What is coming, and what is blocked on a person
 
-#### Per person
-- Shawn — founder and founder-specific capabilities
-- Ryan — owner, explicitly not founder
-- Andrew — owner + Command Center via lodge code
-- Nate — manager
+#### Per role
+- Founder-specific capabilities
+- Owner responsibilities
+- Command Center access
+- Manager responsibilities
+
+Personal names and person-to-access mappings are omitted from this public reference.
 
 Architecture extracted:
 
